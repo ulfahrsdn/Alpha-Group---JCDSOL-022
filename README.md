@@ -192,14 +192,16 @@ Deployment machine learning memiliki peran penting dalam pemanfaatan model machi
 1. Exploratory Data Analyst
 
 <img width="2940" height="1912" alt="image" src="https://github.com/ulfahrsdn/Alpha-Group---JCDSOL-022/blob/main/assets/Screenshot%202026-01-29%20at%2022.47.10.png" />
-<img width="2940" height="1912" alt="image" src="" />
+<img width="2940" height="1912" alt="image" src="https://github.com/ulfahrsdn/Alpha-Group---JCDSOL-022/blob/main/assets/Screenshot%202026-01-29%20at%2022.47.22.png" />
+<img width="2940" height="1912" alt="image" src="https://github.com/ulfahrsdn/Alpha-Group---JCDSOL-022/blob/main/assets/Screenshot%202026-01-29%20at%2022.47.41.png" />
 
 
 
 2. Prediksi Churn
    
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4afc2caa-69f4-40ca-a733-02490075287e" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eb9d3a79-6859-4fb3-a261-d452590cbf44" />
+<img width="2940" height="1912" alt="image" src="https://github.com/ulfahrsdn/Alpha-Group---JCDSOL-022/blob/main/assets/Screenshot%202026-01-29%20at%2022.47.53.png" />
+<img width="2940" height="1912" alt="image" src="https://github.com/ulfahrsdn/Alpha-Group---JCDSOL-022/blob/main/assets/Screenshot%202026-01-29%20at%2022.48.08.png" />
+<img width="2940" height="1912" alt="image" src="https://github.com/ulfahrsdn/Alpha-Group---JCDSOL-022/blob/main/assets/Screenshot%202026-01-29%20at%2022.48.19.png" />
 
 ---
 
