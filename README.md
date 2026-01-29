@@ -191,8 +191,8 @@ Deployment machine learning memiliki peran penting dalam pemanfaatan model machi
 
 1. Exploratory Data Analyst
 
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/810b230d-bcaf-4d45-a8c0-8c7be53a3ea5" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a8a727c5-ab5d-4d1f-83a7-f9fd215ab593" />
+<img width="2940" height="1912" alt="image" src="https://github.com/ulfahrsdn/Alpha-Group---JCDSOL-022/blob/main/assets/Screenshot%202026-01-29%20at%2022.47.10.png" />
+<img width="2940" height="1912" alt="image" src="" />
 
 
 
