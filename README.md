@@ -166,20 +166,20 @@ Analisis SHAP menunjukkan bahwa:
 ## Business Impact Analysis
 
 ### Assumsi Biaya
-- Akuisisi pelanggan baru: **$5,000**
-- Program retensi pelanggan: **$1,000**
+- Akuisisi pelanggan baru: **$50**
+- Program retensi pelanggan: **$10**
 
 ### Tanpa Model
-- Total biaya: **$950,000**
+- Total biaya: **$9,500**
 
 ### Dengan Model
 - Pelanggan ditarget retensi: 192  
 - Pelanggan churn tidak terdeteksi: 5  
 
-**Total biaya: $217,000**
+**Total biaya: $2,170**
 
 ### Cost Saving
-**$733,000** (≈ 77% penghematan biaya)
+**$7,330** (≈ 77% penghematan biaya)
 
 ---
 
