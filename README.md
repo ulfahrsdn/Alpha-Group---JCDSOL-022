@@ -183,27 +183,23 @@ Analisis SHAP menunjukkan bahwa:
 
 ---
 
-## Deployment Plan
+##  Deploy Model to Web Base
 
-Model ini dapat diimplementasikan sebagai **Early Warning System Churn** dengan alur berikut:
+Deployment Machine Learning adalah proses membuat model machine learning yang telah dilatih (trained) dapat digunakan dalam aplikasi yang dapat diakses oleh pengguna akhir secara online.
 
-1. **Batch Prediction**
-   - Model dijalankan secara berkala (harian/mingguan)
-   - Menghasilkan daftar pelanggan berisiko churn
+Deployment machine learning memiliki peran penting dalam pemanfaatan model machine learning secara optimal dalam berbagai aplikasi yang dapat mempermudah dan mempercepat pengambilan keputusan.
 
-2. **Integration with Business Dashboard**
-   - Output model dikonsumsi oleh dashboard (Tableau / Power BI)
-   - Tim bisnis dapat melakukan segmentasi & prioritisasi retensi
+1. Exploratory Data Analyst
 
-3. **Actionable Strategy**
-   - Diskon personalisasi
-   - Cashback targeted
-   - Prioritas customer service
-   - Loyalty program khusus
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/810b230d-bcaf-4d45-a8c0-8c7be53a3ea5" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a8a727c5-ab5d-4d1f-83a7-f9fd215ab593" />
 
-4. **Monitoring & Retraining**
-   - Monitoring performa model (data drift & performance decay)
-   - Retraining berkala menggunakan data terbaru
+
+
+2. Prediksi Churn
+   
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4afc2caa-69f4-40ca-a733-02490075287e" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/eb9d3a79-6859-4fb3-a261-d452590cbf44" />
 
 ---
 
