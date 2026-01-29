@@ -208,3 +208,9 @@ Deployment machine learning memiliki peran penting dalam pemanfaatan model machi
 ## Conclusion
 
 Model **LightGBM Tuned + RandomOverSampler** terbukti mampu mendeteksi pelanggan berisiko churn secara akurat, stabil, dan selaras dengan kebutuhan bisnis. Dengan pendekatan berbasis data ini, Perusahaan XYZ dapat beralih dari strategi retensi yang reaktif menjadi **preventif, efisien, dan berorientasi pada nilai bisnis jangka panjang**.
+
+Link Colab:  <br>
+Link Tableu: https://public.tableau.com/app/profile/ulfah.rosdiana/viz/Remedial_FinalProject/Dashboard3?publish=yes <br>
+Link download material: https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction <br>
+Link demo / deployment: https://alphafinprojectchurnanalysisprediction.streamlit.app <br>
+
