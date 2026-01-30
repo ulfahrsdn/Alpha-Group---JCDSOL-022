@@ -173,13 +173,13 @@ Analisis SHAP menunjukkan bahwa:
 - Total biaya: **$9,500**
 
 ### Dengan Model
-- Pelanggan ditarget retensi: 192  
+- Pelanggan ditarget retensi: 7  
 - Pelanggan churn tidak terdeteksi: 5  
 
-**Total biaya: $2,170**
+**Total biaya: $420**
 
 ### Cost Saving
-**$7,330** (≈ 77% penghematan biaya)
+**$ 9,080** 
 
 ---
 
