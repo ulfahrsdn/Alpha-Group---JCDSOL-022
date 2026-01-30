@@ -131,7 +131,7 @@ Setiap model diuji dengan berbagai teknik resampling menggunakan **Stratified K-
 ## Model Evaluation Results
 
 ### Best Performing Models
-- **XGBoost + SMOTE**
+- **XGBoost + RandomOverSampler**
 - **LightGBM + RandomOverSampler**
 
 ### Final Model
